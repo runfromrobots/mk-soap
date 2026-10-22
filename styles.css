@@ -87,7 +87,7 @@ a {
 }
 
 .site-header nav a {
-  font-family: var(--font-body);
+  font-family: var(--font-display);
   font-weight: 500;
   color: #ffffff;
   text-decoration: none;
